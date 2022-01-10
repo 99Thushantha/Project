@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SLTCIT</string>
+    <string name="loginBtn_text">LOGIN</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Confirm New Password</string>
+    <string name="send_reset_link">Send Link</string>
+    <string name="register">REGISTER</string>
+    <string name="pw_reset_des">Please enter your registered email and submit to reset the password. The link will sending to your email </string>
+    <string name="title_activity_student_note_pp_view">StudentNotePpView</string>
+    <string name="tab_text_1">Notes</string>
+    <string name="tab_text_2">Past Papers</string>
+    <string name="title_activity_view_notes_and_papers">ViewNotesAndPapers</string>
+    <string name="title_activity_view_note">ViewNote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="udemDes">Udemy is the global e-learning marketplace. Anyone can take a course on the platform, and anyone can publish and sell a course.
+        The platform features 100,000 courses from 42,000 instructors around the world. These figures make Udemy the one global platform for online learning.</string>
+    <string name="courseraDec">Coursera Inc. is an American massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller.
+        Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.</string>
+    <string name="skillSDec">Skillshare is an American online learning community for people who want to learn from educational videos. The courses, which are not accredited, are available through subscription.
+        The majority of courses focus on interaction rather than lecturing, with the primary goal of learning by completing a project.</string>
+</resources>
